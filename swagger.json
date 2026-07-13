@@ -5,7 +5,7 @@
     "description": "My API description",
     "version": "1.0.0"
   },
-  "host": "https://cse341-project1-7z0z.onrender.com",
+  "host": "cse341-project1-7z0z.onrender.com",
   "basePath": "/",
   "schemes": [
     "http",
